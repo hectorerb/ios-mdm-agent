@@ -47,3 +47,5 @@ Here is placed files and bash script required to build, test and deploy the app 
 - Update CHANGELOG.md on gh-pages branch (scripts/deploy_master.sh)
 - Deploy release version to App Store (scripts/deploy_master.sh)
 - Remove keychain (scripts/keychain_remove.sh)
+
+#### Environment Variables
